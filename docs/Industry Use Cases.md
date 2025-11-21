@@ -16,7 +16,6 @@
 
 #### **Why Better:**
 - ✅ **HIPAA Compliant**: Data never leaves your environment
-- ✅ **No Cloud Risk**: Patient data stays on-premise
 
 ---
 
@@ -77,8 +76,6 @@
 - "Find contradictions in the literature about Y"
 
 #### **Why Better:**
-- ✅ **Free for Students**: No API costs for educational use
-- ✅ **Offline Access**: Work anywhere without internet
 - ✅ **Research Integrity**: Direct citation of source material
 
 ---
