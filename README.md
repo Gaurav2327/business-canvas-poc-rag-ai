@@ -246,12 +246,12 @@ MIT License - Feel free to use and modify!
 
 ## 📌 Note
 
-== In this POC, we are using open-source components:==
+ In this POC, we are using open-source components:
 - **Ollama** — *mid-tier model (4.7 GB, 8.03B parameters)*
 - **Sentence Transformers**
 - **Pinecone (free tier)*
 
-== Because these services rely on free/open models, you may notice occasional hallucinations in the generated answers.==
+ Because these services rely on free/open models, you may notice occasional hallucinations in the generated answers.
 
 ---
 
@@ -263,6 +263,6 @@ We also tested the POC using:
 - **Amazon Titan** → for text generation
 - **OpenSearch** → as the vector database
 
-==With these services, the POC consistently produced accurate and reliable answers.==
+ With these services, the POC consistently produced accurate and reliable answers.
 
 **[Gaurav Dhapola](https://gaurav2327.github.io/). All rights reserved.**
