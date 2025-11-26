@@ -37,6 +37,7 @@ chmod +x start.sh
 brew install ollama
 
 # Or download from: https://ollama.ai
+# https://huggingface.co/meta-llama/Meta-Llama-3-8B
 ```
 
 ### 3. Download Model
@@ -242,5 +243,26 @@ MIT License - Feel free to use and modify!
 - **SheetJS** - Excel parsing
 
 ---
+
+## 📌 Note
+
+== In this POC, we are using open-source components:==
+- **Ollama** — *mid-tier model (4.7 GB, 8.03B parameters)*
+- **Sentence Transformers**
+- **Pinecone (free tier)*
+
+== Because these services rely on free/open models, you may notice occasional hallucinations in the generated answers.==
+
+---
+
+### ✅ Tested With Enterprise-Grade Services
+
+We also tested the POC using:
+
+- **Anthropic** → for answer generation
+- **Amazon Titan** → for text generation
+- **OpenSearch** → as the vector database
+
+==With these services, the POC consistently produced accurate and reliable answers.==
 
 **[Gaurav Dhapola](https://gaurav2327.github.io/). All rights reserved.**
