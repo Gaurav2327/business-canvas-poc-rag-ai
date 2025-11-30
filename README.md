@@ -208,7 +208,7 @@ echo "OLLAMA_MODEL=phi3" >> .env
 
 ## 🌟 Why This Setup?
 
-✅ **$0/month** - No API costs  
+✅ **$0/month** - No API costs with local setup.
 ✅ **Fast** - Sub-500ms query responses  
 ✅ **100% private** - Data never leaves your machine  
 ✅ **Offline capable** - No internet required  
