@@ -144,18 +144,6 @@ python server.py
 - **Data Exploration**: Query CSV files naturally
 - **Research Assistant**: Index multiple documents and search across them
 
-## 📚 Documentation
-
-- **`PYTHON_BACKEND_READY.md`** - Quick overview & features
-- **`QUICK_START_PYTHON.md`** - 3-minute setup guide
-- **`ECS_SETUP.md`** - **NEW!** AWS ECS deployment guide
-- **`backend/README_PYTHON.md`** - Python backend documentation
-- **`backend/DEPLOYMENT.md`** - Production deployment guide
-- `READY_TO_USE.txt` - Quick start guide
-- `MIGRATION_COMPLETE.md` - Setup details
-- `FREE_VS_PAID_COMPARISON.md` - Cost analysis
-- `TESTING_GUIDE.md` - Testing instructions
-
 ## 🧪 Test It
 
 Try with the included sample data:
