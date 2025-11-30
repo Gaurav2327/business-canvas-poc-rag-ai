@@ -103,7 +103,7 @@ python server.py
 
 ```
 ├── backend/
-│   ├── server.js           # Main backend server (FREE version)
+│   ├── server.js           # Main backend server
 │   ├── package.json        # Dependencies
 │   └── .env               # Configuration
 ├── chrome-extension/
