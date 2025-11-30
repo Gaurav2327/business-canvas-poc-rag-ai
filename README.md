@@ -119,7 +119,7 @@ python server.py
 
 ### Backend:
 - **FastAPI** - Modern async Python API framework
-- **Ollama (Llama 3)** - FREE local LLM for generation
+- **Ollama (Llama 3)** - opensource LLM for generation
 - **sentence-transformers** - FREE local embeddings
 - **Pinecone** - Vector database (free tier available)
 
