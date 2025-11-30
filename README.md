@@ -29,7 +29,7 @@ chmod +x start.sh
 ./start.sh
 ```
 
-### 2. Install Ollama (FREE LLM)
+### 2. Install Ollama (opensource LLM with 8B parameters)
 
 ```bash
 # Mac:
